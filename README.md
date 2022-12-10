@@ -1,2 +1,1 @@
-# chikee.github.io
-##welcome to my page!##
+#Welcome to my Pages!
